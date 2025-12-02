@@ -2,7 +2,7 @@
   "name": "movie",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/hji-and/TeamProject.git",
+  "homepage": "https://github.com/hji-and/TeamProject/",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
